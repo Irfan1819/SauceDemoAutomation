@@ -1,0 +1,25 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<testng-results ignored="0" total="1" passed="1" failed="0" skipped="0">
+  <reporter-output>
+  </reporter-output>
+  <suite started-at="2025-03-04T10:26:18 IST" name="Default suite" finished-at="2025-03-04T10:26:30 IST" duration-ms="11297">
+    <groups>
+    </groups>
+    <test started-at="2025-03-04T10:26:18 IST" name="Default test" finished-at="2025-03-04T10:26:30 IST" duration-ms="11297">
+      <class name="tests.FilterTest">
+        <test-method is-config="true" signature="setUp()[pri:0, instance:tests.FilterTest@75d4a5c2]" started-at="2025-03-04T10:26:18 IST" name="setUp" finished-at="2025-03-04T10:26:23 IST" duration-ms="5012" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- setUp -->
+        <test-method signature="testingFilterBypriceLowToHigh()[pri:0, instance:tests.FilterTest@75d4a5c2]" started-at="2025-03-04T10:26:23 IST" name="testingFilterBypriceLowToHigh" finished-at="2025-03-04T10:26:24 IST" duration-ms="751" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- testingFilterBypriceLowToHigh -->
+        <test-method is-config="true" signature="tearDown()[pri:0, instance:tests.FilterTest@75d4a5c2]" started-at="2025-03-04T10:26:24 IST" name="tearDown" finished-at="2025-03-04T10:26:30 IST" duration-ms="5485" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- tearDown -->
+      </class> <!-- tests.FilterTest -->
+    </test> <!-- Default test -->
+  </suite> <!-- Default suite -->
+</testng-results>
